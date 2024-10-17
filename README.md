@@ -1,6 +1,6 @@
-# daftar-biodata-siswa
+# daftar-biodata-siswa 
 ==
-daftar biodata mahasiswa kelas 5c
+daftar biodata mahasiswa kelas 5c 
 --
 *berikuty adalah biodata yang terdiri dari 3 siswa*
 -angkatan 2021
