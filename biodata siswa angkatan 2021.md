@@ -1,5 +1,5 @@
 1.   Nama  :ivan
-     NIM   :2205101001;
+     NIM   :2205101001.
      Agama :islam
      JK    :lanang
      TTL   :madiun,20 agustus 2000
